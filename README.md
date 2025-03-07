@@ -5,9 +5,6 @@
 **Dual-agent system for automated web research & report generation**  
 *Powered by LangGraph, LangChain, and Tavily*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
-
 ## Features
 - **Dual-Agent Architecture**: Research (web crawling) & Drafting (report generation) agents
 - **Self-Validation**: Auto-quality checks with 3-stage max iteration
